@@ -28,10 +28,10 @@ If you would like to contribute or see something that needs fixing submit a pull
 ### Not familiar with Github or pull requests?
 It's easy:
 * Sign-up for a github account
-* Visit https://github.com/peakascendr/Motor_and_Prop_Data and click ![fork](../peakascendr.github.io/fork.png?raw=true) in the upper right of the page.
+* Visit https://github.com/peakascendr/Motor_and_Prop_Data and click ![fork](https://github.com/peakascendr/peakascendr.github.io/blob/main/fork.png?raw=true) in the upper right of the page.
 * Click on the forked 'MotorandPropData.json' file in your account
-* Click on the ![pencil](../peakascendr.github.io/pencil.png?raw=true) icon to edit the file and make you edits
+* Click on the ![pencil](https://github.com/peakascendr/peakascendr.github.io/blob/main/pencil.png) icon to edit the file and make you edits
 * When done select "Create a new branch for this commit and start a pull request." at the botton and then click "Propose changes"
-![new branch and propose](../peakascendr.github.io/pull.png?raw=true)
+![new branch and propose](https://github.com/peakascendr/peakascendr.github.io/blob/main/pull.png)
 
 That's it! Your request will be reviewed and posted. 
